@@ -24,7 +24,7 @@ DB_PASSWORD=your_password
 Next run "composer install"
 if you run into version control issues, run the command
 with the following flag 
-"--ignore-platform-req=<problematic-dependency"
+"--ignore-platform-req=<problematic-dependency>"
 
 
 setup the database structure with "php artisan migrate"
